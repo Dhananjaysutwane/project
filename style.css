@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(19, 3, 34);
+    color: white;
+}
+.main{
+    display: flex;
+    background-color: rgb(24, 22, 56);
+    justify-content: center;
+    width: 80%;
+    height: 73vh;
+    margin: 100px;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 2.5rem;
+    padding: 1.5rem;
+}
+
+p{
+    padding: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.views{
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 1rem;
+    margin-top: 6rem;
+    font-weight: bold;
+}
+h3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+span{
+    color:blueviolet
+}
+
+
+.color{
+    
+    background-color:rgba(184, 0, 138, 0.75);
+    
+}
+
+    
+
